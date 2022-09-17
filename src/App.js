@@ -16,7 +16,7 @@ function App() {
     <div className="App">
       <Router>
         <header>
-          <h1 className="title">Welcome to Monty's Mineral SPA</h1>
+          <h1 className="title">Welcome to Monty's Mineral SPA!!</h1>
 
           <div className="navBar">
             <ul>
